@@ -1,0 +1,10 @@
+torch
+torchvision
+diffusers==0.35.2
+transformers==4.55.2
+huggingface-hub>=0.34,<1.0
+torch-fidelity
+matplotlib
+numpy
+pandas
+pillow

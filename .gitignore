@@ -1,0 +1,14 @@
+__pycache__/
+*.pyc
+# model weights and data (downloaded, not part of the repository)
+checkpoints/
+*.pt
+*.npz
+data/
+# LaTeX build files
+*.aux
+*.log
+*.out
+*.fls
+*.fdb_latexmk
+*.synctex.gz
